@@ -281,8 +281,8 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👥 İletişim
 
-Proje Sahibi - [@yourusername](https://twitter.com/yourusername)
+Proje Sahibi - [@jesusamaisa](https://twitter.com/yourusername)
 
-Proje Linki: [https://github.com/yourusername/fashion-compare](https://github.com/yourusername/fashion-compare)
+Proje Linki: [https://github.com/jesusamaisa/BTKAkademi2025Hackaton]((https://github.com/jesusamaisa/BTKAkademi2025Hackaton))
 
 ## 🙏 Teşekkür
