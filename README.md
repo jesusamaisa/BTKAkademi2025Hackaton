@@ -281,7 +281,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👥 İletişim
 
-Proje Sahibi - [@jesusamaisa](https://twitter.com/yourusername)
+Proje Geliştiricileri - [@aysepayci] / [@jesusamaisa]
 
 Proje Linki: [https://github.com/jesusamaisa/BTKAkademi2025Hackaton]((https://github.com/jesusamaisa/BTKAkademi2025Hackaton))
 
